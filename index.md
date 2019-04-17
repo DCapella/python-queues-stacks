@@ -11,11 +11,11 @@
 
 ## Code
 
-<br/>
+<br/><br/><br/>
 
 ### Two instance variables
 
-<br/>
+<br/><br/><br/>
 
 ```python
 class Solution:
@@ -26,7 +26,7 @@ class Solution:
 
 ### pushCharacter method that adds to stack
 
-<br/>
+<br/><br/><br/>
 
 ```python
 def pushCharacter(self, c):
@@ -36,7 +36,7 @@ def pushCharacter(self, c):
 
 ### enqueueCharacter method that adds to queue
 
-<br/>
+<br/><br/><br/>
 
 ```python
 def enqueueCharacter(self, c):
@@ -46,7 +46,7 @@ def enqueueCharacter(self, c):
 
 ### popCharacter that returns pop from stack
 
-<br/>
+<br/><br/><br/>
 
 ```python
 def popCharacter(self):
@@ -56,7 +56,7 @@ def popCharacter(self):
 
 ### dequeueCharacter method that pops first from queue
 
-<br/>
+<br/><br/><br/>
 
 ```python
 def dequeueCharacter(self):
@@ -66,7 +66,7 @@ def dequeueCharacter(self):
 
 ## Final Code
 
-<br/>
+<br/><br/><br/>
 
 ```python
 import sys
@@ -97,6 +97,6 @@ class Solution:
 
 ## Conclusion
 
-<br/>
+<br/><br/><br/>
 
 Quick, simple, and fun.
