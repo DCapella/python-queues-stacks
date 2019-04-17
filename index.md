@@ -11,7 +11,11 @@
 
 ## Code
 
+<br/>
+
 ### Two instance variables
+
+<br/>
 
 ```python
 class Solution:
@@ -22,6 +26,8 @@ class Solution:
 
 ### pushCharacter method that adds to stack
 
+<br/>
+
 ```python
 def pushCharacter(self, c):
       """Adds a chracter to the stack list"""
@@ -29,6 +35,8 @@ def pushCharacter(self, c):
 ```
 
 ### enqueueCharacter method that adds to queue
+
+<br/>
 
 ```python
 def enqueueCharacter(self, c):
@@ -38,6 +46,8 @@ def enqueueCharacter(self, c):
 
 ### popCharacter that returns pop from stack
 
+<br/>
+
 ```python
 def popCharacter(self):
       """Removes and returns a character from top of stack list"""
@@ -46,6 +56,8 @@ def popCharacter(self):
 
 ### dequeueCharacter method that pops first from queue
 
+<br/>
+
 ```python
 def dequeueCharacter(self):
       """Removes and returns the first character of queued list"""
@@ -53,6 +65,8 @@ def dequeueCharacter(self):
 ```
 
 ## Final Code
+
+<br/>
 
 ```python
 import sys
@@ -82,5 +96,7 @@ class Solution:
 ```
 
 ## Conclusion
+
+<br/>
 
 Quick, simple, and fun.
